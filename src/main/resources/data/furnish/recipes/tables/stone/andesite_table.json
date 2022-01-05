@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_andesite"
+    },
+    "C": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "furnish:andesite_table",
+    "count": 4
+  },
+  "group": "stone_tables"
+}

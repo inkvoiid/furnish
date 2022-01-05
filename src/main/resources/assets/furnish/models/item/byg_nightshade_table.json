@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/nightshade_planks",
+	"leg": "byg:block/nightshade_log"
+  }
+}

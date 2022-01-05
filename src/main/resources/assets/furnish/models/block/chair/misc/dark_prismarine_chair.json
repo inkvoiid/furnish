@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/dark_prismarine",
+    "seat": "minecraft:block/prismarine_bricks",
+    "particle": "minecraft:block/dark_prismarine",
+    "back": "minecraft:block/dark_prismarine"
+  }
+}

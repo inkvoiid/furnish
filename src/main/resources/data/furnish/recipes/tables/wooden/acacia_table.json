@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_planks"
+    },
+    "C": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "furnish:acacia_table",
+    "count": 4
+  },
+  "group": "wooden_tables"
+}

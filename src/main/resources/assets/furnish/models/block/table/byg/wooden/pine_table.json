@@ -1,0 +1,6 @@
+{
+  "parent": "furnish:block/table",
+  "textures": {
+    "top": "byg:block/pine_planks"
+  }
+}

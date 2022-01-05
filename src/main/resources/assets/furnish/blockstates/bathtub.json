@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "part=head,facing=north": {
+      "model": "furnish:block/bathtub_head",
+      "y": 180
+    },
+    "part=head,facing=east": {
+      "model": "furnish:block/bathtub_head",
+      "y": 270
+    },
+    "part=head,facing=south": {
+      "model": "furnish:block/bathtub_head",
+      "y": 0
+    },
+    "part=head,facing=west": {
+      "model": "furnish:block/bathtub_head",
+      "y": 90
+    },
+	"part=foot,facing=north": {
+      "model": "furnish:block/bathtub_foot",
+      "y": 0
+    },
+    "part=foot,facing=east": {
+      "model": "furnish:block/bathtub_foot",
+      "y": 90
+    },
+    "part=foot,facing=south": {
+      "model": "furnish:block/bathtub_foot",
+      "y": 180
+    },
+    "part=foot,facing=west": {
+      "model": "furnish:block/bathtub_foot",
+      "y": 270
+    }
+  }
+}

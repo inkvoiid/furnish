@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/witch_hazel_planks",
+	"leg": "byg:block/witch_hazel_log"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "B B"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_bricks"
+    },
+    "C": {
+      "item": "minecraft:chiseled_nether_bricks"
+    },
+	"B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "furnish:nether_brick_chair",
+    "count": 2
+  }
+}

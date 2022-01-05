@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/embur_planks",
+	"leg": "byg:block/embur_pedu"
+  }
+}

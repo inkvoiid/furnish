@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "byg:block/sythian_stem",
+    "seat": "byg:block/sythian_planks",
+    "particle": "byg:block/sythian_stem",
+    "back": "byg:block/sythian_stem"
+  }
+}

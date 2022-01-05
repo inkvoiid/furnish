@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "furnish:block/sandcastle/bucket_sandcastle",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "furnish:block/sandcastle/bucket_sandcastle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "furnish:block/sandcastle/bucket_sandcastle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "furnish:block/sandcastle/bucket_sandcastle",
+      "y": 270
+    }
+  }
+}

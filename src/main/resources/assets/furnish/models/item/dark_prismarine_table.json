@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/dark_prismarine",
+	"leg": "minecraft:block/prismarine_bricks"
+  }
+}

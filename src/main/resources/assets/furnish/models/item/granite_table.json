@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/polished_granite",
+	"leg": "minecraft:block/granite"
+  }
+}

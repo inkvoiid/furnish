@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "B B",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chiseled_nether_bricks"
+    },
+	"B": {
+      "item": "minecraft:blaze_rod"
+    },
+	"C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "furnish:nether_brick_table",
+    "count": 2
+  }
+}

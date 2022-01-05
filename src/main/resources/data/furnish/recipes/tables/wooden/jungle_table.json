@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+    "C": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "furnish:jungle_table",
+    "count": 4
+  },
+  "group": "wooden_tables"
+}

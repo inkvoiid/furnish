@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/jungle_planks",
+	"leg": "minecraft:block/jungle_log"
+  }
+}

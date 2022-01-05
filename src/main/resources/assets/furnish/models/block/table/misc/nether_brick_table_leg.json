@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"leg_base": "minecraft:block/brewing_stand_base",
+		"particle": "minecraft:block/brewing_stand",
+		"leg": "minecraft:block/brewing_stand"
+	},
+	"elements": [
+		{
+			"from": [13, 1, 1],
+			"to": [15, 12, 3],
+			"faces": {
+				"north": {"uv": [7, 5, 9, 16], "texture": "#leg"},
+				"east": {"uv": [7, 5, 9, 16], "texture": "#leg"},
+				"south": {"uv": [7, 5, 9, 16], "texture": "#leg"},
+				"west": {"uv": [7, 5, 9, 16], "texture": "#leg"},
+				"up": {"uv": [7, 7, 9, 9], "texture": "#leg"},
+				"down": {"uv": [7, 7, 9, 9], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [12, 0, 0],
+			"to": [16, 1, 4],
+			"faces": {
+				"north": {"uv": [2, 15, 6, 16], "texture": "#leg_base"},
+				"east": {"uv": [5, 15, 9, 16], "texture": "#leg_base"},
+				"south": {"uv": [0, 15, 4, 16], "texture": "#leg_base"},
+				"west": {"uv": [5, 15, 9, 16], "texture": "#leg_base"},
+				"up": {"uv": [3, 10, 7, 14], "texture": "#leg_base"},
+				"down": {"uv": [3, 10, 7, 14], "texture": "#leg_base"}
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "furnish:block/caged_lantern",
+  "textures": {
+    "lantern": "minecraft:block/soul_lantern",
+	"cage": "minecraft:block/spawner",
+	"particle": "minecraft:block/spawner"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "byg:block/bulbis_stem",
+    "seat": "byg:block/bulbis_planks",
+    "particle": "byg:block/bulbis_stem",
+    "back": "byg:block/bulbis_stem"
+  }
+}

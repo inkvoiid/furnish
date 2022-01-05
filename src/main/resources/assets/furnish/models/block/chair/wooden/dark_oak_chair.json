@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/dark_oak_log",
+    "seat": "minecraft:block/dark_oak_planks",
+    "particle": "minecraft:block/dark_oak_log",
+    "back": "minecraft:block/dark_oak_log"
+  }
+}

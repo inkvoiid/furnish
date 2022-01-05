@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "furnish:stone_brick_chair",
+    "count": 2
+  },
+  "group": "stone_chairs"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_log"
+    },
+    "C": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "furnish:acacia_chair",
+    "count": 2
+  },
+  "group": "wooden_chairs"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/skyris_planks",
+	"leg": "byg:block/skyris_log"
+  }
+}

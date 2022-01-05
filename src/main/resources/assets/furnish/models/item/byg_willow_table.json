@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/willow_planks",
+	"leg": "byg:block/willow_log"
+  }
+}

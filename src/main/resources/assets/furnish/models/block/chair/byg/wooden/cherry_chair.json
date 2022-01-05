@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "byg:block/cherry_log",
+    "seat": "byg:block/cherry_planks",
+    "particle": "byg:block/cherry_log",
+    "back": "byg:block/cherry_log"
+  }
+}

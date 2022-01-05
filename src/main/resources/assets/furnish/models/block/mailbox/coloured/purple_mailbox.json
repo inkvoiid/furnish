@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:block/mailbox",
+  "textures": {
+		"mailbox": "block/purple_concrete",
+		"particle": "block/purple_concrete"
+  }
+}

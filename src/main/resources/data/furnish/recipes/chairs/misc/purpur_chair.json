@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "E E"
+  ],
+  "key": {
+    "#": {
+		"item": "minecraft:purpur_pillar"
+    },
+    "C": {
+		"item": "minecraft:purpur_block"
+    },
+	"E": {
+		"item": "minecraft:end_rod"
+	}
+  },
+  "result": {
+    "item": "furnish:purpur_chair",
+    "count": 2
+  }
+}

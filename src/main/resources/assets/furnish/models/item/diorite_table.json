@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/polished_diorite",
+	"leg": "minecraft:block/diorite"
+  }
+}

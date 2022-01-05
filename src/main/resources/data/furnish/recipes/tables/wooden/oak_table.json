@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "C": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "furnish:oak_table",
+    "count": 4
+  },
+  "group": "wooden_tables"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "byg:block/cika_log",
+    "seat": "byg:block/cika_planks",
+    "particle": "byg:block/cika_log",
+    "back": "byg:block/cika_log"
+  }
+}

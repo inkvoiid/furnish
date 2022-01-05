@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/spruce_planks",
+	"leg": "minecraft:block/spruce_log"
+  }
+}

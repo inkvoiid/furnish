@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/crimson_stem",
+    "seat": "minecraft:block/crimson_planks",
+    "particle": "minecraft:block/crimson_stem",
+    "back": "minecraft:block/crimson_stem"
+  }
+}

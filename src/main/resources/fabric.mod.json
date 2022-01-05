@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "furnish",
+  "version": "1.0",
+
+  "name": "Furnish",
+  "description": "The Furnish mod for Minecraft",
+  "authors": [
+    "inkvoiid",
+    "Thanks to PigCart for the Chair Entity Code"
+  ],
+  "contact": {
+    "homepage": "https://inkvoiid.netlify.app",
+    "sources": "https://github.com/inkvoiid/furnish"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/furnish/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "voiid.ink.furnish.Furnish"
+    ],
+    "client": [
+      "voiid.ink.furnish.client.FurnishClient"
+    ]
+  },
+  "mixins": [
+    "furnish.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.11",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "froggychair": "*"
+  }
+}

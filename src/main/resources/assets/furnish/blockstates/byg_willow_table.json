@@ -1,0 +1,213 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 90,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 180,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 270,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 270,
+        "uvlock": true
+      },
+      "when": {
+        "south": "false",
+        "west": "false",
+        "north": "false",
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 180,
+        "uvlock": true
+      },
+      "when": {
+        "south": "false",
+        "west": "false",
+        "north": "false",
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 270,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "north": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 90,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "north": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 90,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 180,
+        "uvlock": true
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 180,
+        "uvlock": true
+      },
+      "when": {
+        "east": "true",
+        "north": "true",
+        "west": "false",
+        "south": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 270,
+        "uvlock": true
+      },
+      "when": {
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "y": 90,
+        "uvlock": true
+      },
+      "when": {
+        "west": "true",
+        "north": "true",
+        "east": "false",
+        "south": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/byg/wooden/willow_table_leg",
+        "uvlock": true
+      },
+      "when": {
+        "west": "true",
+        "south": "true",
+        "east": "false",
+        "north": "false"
+      }
+    }
+  ]
+}

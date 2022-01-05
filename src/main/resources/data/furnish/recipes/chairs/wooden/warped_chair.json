@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:warped_stem"
+    },
+    "C": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "furnish:warped_chair",
+    "count": 2
+  },
+  "group": "wooden_chairs"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "furnish:block/rug",
+  "textures": {
+		"wool": "block/pink_wool",
+		"particle": "block/pink_wool",
+		"fluff": "furnish:block/pink_rug"
+  }
+}

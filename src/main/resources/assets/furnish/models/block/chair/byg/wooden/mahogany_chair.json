@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "byg:block/mahogany_log",
+    "seat": "byg:block/mahogany_planks",
+    "particle": "byg:block/mahogany_log",
+    "back": "byg:block/mahogany_log"
+  }
+}

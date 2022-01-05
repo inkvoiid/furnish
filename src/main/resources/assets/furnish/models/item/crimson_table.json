@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/crimson_planks",
+	"leg": "minecraft:block/crimson_stem"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/stone",
+    "seat": "minecraft:block/stone_bricks",
+    "particle": "minecraft:block/stone",
+    "back": "minecraft:block/stone"
+  }
+}

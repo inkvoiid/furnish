@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/rainbow_eucalyptus_planks",
+	"leg": "byg:block/rainbow_eucalyptus_log"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diorite"
+    },
+    "C": {
+      "item": "minecraft:polished_diorite"
+    }
+  },
+  "result": {
+    "item": "furnish:diorite_chair",
+    "count": 2
+  },
+  "group": "stone_chairs"
+}

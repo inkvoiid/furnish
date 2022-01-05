@@ -1,0 +1,6 @@
+{
+  "parent": "furnish:block/table",
+  "textures": {
+    "top": "minecraft:block/dark_oak_planks"
+  }
+}

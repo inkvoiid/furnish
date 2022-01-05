@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "byg:block/palo_verde_log",
+    "seat": "minecraft:block/birch_planks",
+    "particle": "byg:block/palo_verde_log",
+    "back": "byg:block/palo_verde_log"
+  }
+}

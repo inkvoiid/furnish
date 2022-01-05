@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "minecraft:block/warped_planks",
+	"leg": "minecraft:block/warped_stem"
+  }
+}

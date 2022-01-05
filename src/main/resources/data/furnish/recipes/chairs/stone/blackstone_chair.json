@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blackstone"
+    },
+    "C": {
+      "item": "minecraft:polished_blackstone"
+    }
+  },
+  "result": {
+    "item": "furnish:blackstone_chair",
+    "count": 2
+  },
+  "group": "stone_chairs"
+}

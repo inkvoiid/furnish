@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/diorite",
+    "seat": "minecraft:block/polished_diorite",
+    "particle": "minecraft:block/diorite",
+    "back": "minecraft:block/diorite"
+  }
+}

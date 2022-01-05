@@ -1,0 +1,197 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg"
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 180
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 270
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 270
+      },
+      "when": {
+        "south": "false",
+        "west": "false",
+        "north": "false",
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 180
+      },
+      "when": {
+        "south": "false",
+        "west": "false",
+        "north": "false",
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg"
+      },
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 270
+      },
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg"
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "north": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "north": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 180
+      },
+      "when": {
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 180
+      },
+      "when": {
+        "east": "true",
+        "north": "true",
+        "west": "false",
+        "south": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 270
+      },
+      "when": {
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "north": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg",
+        "y": 90
+      },
+      "when": {
+        "west": "true",
+        "north": "true",
+        "east": "false",
+        "south": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "furnish:block/table/misc/purpur_table_leg"
+      },
+      "when": {
+        "west": "true",
+        "south": "true",
+        "east": "false",
+        "north": "false"
+      }
+    }
+  ]
+}

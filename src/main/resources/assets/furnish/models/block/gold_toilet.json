@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:block/toilet",
+  "textures": {
+    "particle": "block/gold_block",
+    "toilet": "block/gold_block"
+  }
+}

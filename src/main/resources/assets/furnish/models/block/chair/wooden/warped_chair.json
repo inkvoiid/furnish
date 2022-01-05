@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/warped_stem",
+    "seat": "minecraft:block/warped_planks",
+    "particle": "minecraft:block/warped_stem",
+    "back": "minecraft:block/warped_stem"
+  }
+}

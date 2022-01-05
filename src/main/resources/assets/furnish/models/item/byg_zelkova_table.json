@@ -1,0 +1,7 @@
+{
+  "parent": "furnish:item/table",
+  "textures": {
+    "top": "byg:block/zelkova_planks",
+	"leg": "byg:block/zelkova_log"
+  }
+}

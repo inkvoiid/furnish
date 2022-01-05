@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "#CC",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_log"
+    },
+    "C": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "furnish:birch_chair",
+    "count": 2
+  },
+  "group": "wooden_chairs"
+}

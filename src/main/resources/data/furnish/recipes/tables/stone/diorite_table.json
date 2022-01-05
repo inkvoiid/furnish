@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_diorite"
+    },
+    "C": {
+      "item": "minecraft:diorite"
+    }
+  },
+  "result": {
+    "item": "furnish:diorite_table",
+    "count": 4
+  },
+  "group": "stone_tables"
+}

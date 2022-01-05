@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "furnish:block/white_sink",
+      "y": 0,
+	  "uvlock": true 
+    },
+    "facing=east": {
+      "model": "furnish:block/white_sink",
+      "y": 90,
+	  "uvlock": true 
+    },
+    "facing=south": {
+      "model": "furnish:block/white_sink",
+      "y": 180,
+	  "uvlock": true 
+    },
+    "facing=west": {
+      "model": "furnish:block/white_sink",
+      "y": 270,
+	  "uvlock": true 
+    }
+  }
+}

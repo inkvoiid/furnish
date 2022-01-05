@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "C": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "furnish:blackstone_table",
+    "count": 4
+  },
+  "group": "stone_tables"
+}

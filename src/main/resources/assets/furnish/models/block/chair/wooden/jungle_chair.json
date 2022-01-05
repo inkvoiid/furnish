@@ -1,0 +1,9 @@
+{
+  "parent": "furnish:block/chair",
+  "textures": {
+    "leg": "minecraft:block/jungle_log",
+    "seat": "minecraft:block/jungle_planks",
+    "particle": "minecraft:block/jungle_log",
+    "back": "minecraft:block/jungle_log"
+  }
+}
